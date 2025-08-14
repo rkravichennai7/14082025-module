@@ -8,5 +8,5 @@ module "storage_account" {
   depends_on = [ module.resource_group1 ]
   rg_name = "ravi3"
   rg_location = "west us"
-  storage_name = "ravi05082025"
+  storage_name = "ravi0508202512"
 }
