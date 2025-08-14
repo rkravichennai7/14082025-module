@@ -1,6 +1,6 @@
 module "resource_group1" {
   source = "../child_module/rg"
-  rg_name = "ravi3"
+  rg_name = "ravi34"
   rg_location = "west us"
 }
 module "storage_account" {
